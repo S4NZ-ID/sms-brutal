@@ -1,2 +1,2 @@
 # sms-brutal
-Ini script ga tau limit apa mkanya aing bilng unlimited
+Ini script ga tau limit apa kga mkanya aing bilng unlimited
